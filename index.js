@@ -54,7 +54,7 @@ inquirer.prompt([
     },
 ]).then(answers => {
     fs.writeFile("README.md", JSON.stringify(answers), err => {
-        err ? console.error(err) : console.log("Your README has been written! :)")
+        err ? console.error(err) : console.log("Your README has been written :)")
     })
 })
 

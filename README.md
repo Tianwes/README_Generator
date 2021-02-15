@@ -1,2 +1,1 @@
-# README_Generator
-A Command-line app that accepts user input to generate a README
+{"ProjectTitle":"gre","description":"dfgbv","installation":"sdfsdfsdf","usage":"dsfsdsd","contribution":"dsfsdfsdf","tests":"sdfsdfsdf","license":"Academic Free License v3.0","username":"sdfs","email":"sdffs@sd.com"}
