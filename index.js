@@ -1,6 +1,32 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 
+const generateREADME = (answers) =>
+`
+# ${answers.ProjectTitle}
+- words here
+[license Badge]
+<!-- followed by link down to license section -->
+## Description
+
+## Table of Contents
+<!-- will need to put each section name and make a link HOW TO DO IN-PAGE LINKS? -->
+
+## Installation
+
+## Usage
+
+## License
+
+## Contributing
+
+## Tests
+
+## Questions
+Personal GitHub Page: github.com/${answers.username}
+
+`;
+
 inquirer.prompt([
     {
         type: "input",
@@ -52,8 +78,10 @@ inquirer.prompt([
         message: "Please enter your email address.",
         name: "email"
     },
-]).then(answers => {
-    fs.writeFile("README.md", JSON.stringify(answers), err => {
+]).then((answers) => {
+   const readmeContent = generateREADME(answers);
+
+    fs.writeFile("README.md", readmeContent, (err) => {
         err ? console.error(err) : console.log("Your README has been written :)")
     })
 })

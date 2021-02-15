@@ -1,1 +1,23 @@
-{"ProjectTitle":"gre","description":"dfgbv","installation":"sdfsdfsdf","usage":"dsfsdsd","contribution":"dsfsdfsdf","tests":"sdfsdfsdf","license":"Academic Free License v3.0","username":"sdfs","email":"sdffs@sd.com"}
+
+# fdg
+- words here
+[license Badge]
+<!-- followed by link down to license section -->
+## Description
+
+## Table of Contents
+<!-- will need to put each section name and make a link HOW TO DO IN-PAGE LINKS? -->
+
+## Installation
+
+## Usage
+
+## License
+
+## Contributing
+
+## Tests
+
+## Questions
+Personal GitHub Page: github.com/dfgdfg
+
