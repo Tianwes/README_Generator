@@ -1,5 +1,5 @@
 
-# Tindog    [![License: Educational Community License v2.0](https://img.shields.io/badge/License-Educational Community License v2.0-green.svg)](https://opensource.org/licenses/Educational Community License v2.0)
+# Tindog    [![License: Educational Community License v2.0](https://img.shields.io/badge/License-Educational-Community-License-v2.0-green.svg)](https://opensource.org/licenses/Educational-Community-License-v2.0)
 
 Dating service for dogs
 
