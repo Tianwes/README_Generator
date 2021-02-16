@@ -1,8 +1,8 @@
 
-# Qwerty   
-[![License: MPL-2.0](https://img.shields.io/badge/License-MPL-2.0-green)](https://opensource.org/licenses/MPL-2.0)
+# Groundhog Day   
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL-green)](https://opensource.org/licenses/GPL-3.0)
 
-qwerty
+It's just repeats
 
 
 ## Table of Contents
@@ -14,24 +14,24 @@ qwerty
 [Questions](#questions)  
 
 ## Installation
-qwerty
+every day
 
 ## Usage
-qwerty
+every day
 
 ## License
-MPL-2.0  
-To find out more about the MPL-2.0, click [here](https://opensource.org/licenses/MPL-2.0)
+GPL-3.0  
+To find out more about the GPL-3.0, click [here](https://opensource.org/licenses/GPL-3.0)
 
 
 ## Contributing
-wert
+you have to every day
 
 ## Tests
-wert
+why
 
 ## Questions
-Personal GitHub Page: [github.com/qwerty](github.com/qwerty)
+Personal GitHub Page: [github.com/Bill](github.com/Bill)
 
-MPL-2.0 © [qwerty](github.com/qwerty)
+GPL-3.0 © [Bill](github.com/Bill)
 

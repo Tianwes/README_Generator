@@ -4,7 +4,7 @@ const fs = require("fs");
 const generateREADME = (answers) =>
 `
 # ${answers.projectTitle}   
-[![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-green)](https://opensource.org/licenses/${answers.license})
+[![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license.split('-')[0]}-green)](https://opensource.org/licenses/${answers.license})
 
 ${answers.description}
 
@@ -92,6 +92,10 @@ inquirer.prompt([
         name: "email"
     },
 ]).then((answers) => {
+    // const ChoseLicense = "your string";
+    // const withoutLastFourChars = app.slice(0, -4);
+    // answers.license.split('-')[0]
+
    const readmeContent = generateREADME(answers);
 
     fs.writeFile("README.md", readmeContent, (err) => {
