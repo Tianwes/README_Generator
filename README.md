@@ -1,6 +1,6 @@
 
 # 1   
-[![License: EPL-2.0](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://opensource.org/licenses/EPL-2.0)
+[![License: EPL-2.0](https://img.shields.io/badge/License%20nameHere-brightgreen.svg?style=flat)](https://opensource.org/licenses/EPL-2.0)
 
 2
 
