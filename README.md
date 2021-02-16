@@ -1,33 +1,35 @@
 
-# ReadMe Generator
-- words here
-[!MIT(https://img.shields.io/github/license/license/name?style=plastic)]
+# Tindog    [![License: Mozilla Public License 2.0](https://img.shields.io/badge/License-Mozilla Public License 2.0-green.svg)](https://opensource.org/licenses/Mozilla Public License 2.0)
+
+Dating service for dogs
+
 <!-- followed by link down to license section -->
-
-## Description
-Through the command terminal, it generates a readme 
-
 ## Table of Contents
-<!-- will need to put each section name and make a link HOW TO DO IN-PAGE LINKS? -->
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
 
 ## Installation
-1) click install btn 2)follow prompts
+check app store
 
 ## Usage
-you simply type answers to questions and they are filled in
+blahblahblahblah
 
 ## License
-MIT
+Mozilla Public License 2.0
 // license info
 
 ## Contributing
-feel free to fork
+email here
 
 ## Tests
-answer prompt and see what happens?
+blablblalalblkjghljf
 
 ## Questions
-Personal GitHub Page: github.com/Tianwes
+Personal GitHub Page: [github.com/Tianwes](github.com/Tianwes)
 
-MIT&copy [Tianwes](github.com/Tianwes)
+Mozilla Public License 2.0 © [Tianwes](github.com/Tianwes)
 
