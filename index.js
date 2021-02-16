@@ -24,8 +24,9 @@ ${answers.installation}
 ${answers.usage}
 
 ## License
-${answers.license}
-https://opensource.org/licenses/${answers.license}
+${answers.license}  
+To find out more about the ${answers.license}, click [![here](https://opensource.org/licenses/${answers.license})]
+
 
 ## Contributing
 ${answers.contribution}
