@@ -5,8 +5,8 @@ Dating service for dogs
 
 <!-- followed by link down to license section -->
 ## Table of Contents
-[Installation](#installation)
-[Usage](#usage)
+[Installation](#installation)  
+[Usage](#usage)  
 [License](#license)
 [Contributing](#contributing)
 [Tests](#tests)

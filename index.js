@@ -3,18 +3,19 @@ const fs = require("fs");
 
 const generateREADME = (answers) =>
 `
-# ${answers.projectTitle}    [![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-green.svg)](https://opensource.org/licenses/${answers.license})
+# ${answers.projectTitle}   
+[![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-green.svg)](https://opensource.org/licenses/${answers.license})
 
 ${answers.description}
 
-<!-- followed by link down to license section -->
+
 ## Table of Contents
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributing](#contributing)
-[Tests](#tests)
-[Questions](#questions)
+[Installation](#installation)  
+[Usage](#usage)  
+[License](#license)  
+[Contributing](#contributing)  
+[Tests](#tests)  
+[Questions](#questions)  
 
 ## Installation
 ${answers.installation}
@@ -24,7 +25,7 @@ ${answers.usage}
 
 ## License
 ${answers.license}
-// license info
+https://opensource.org/licenses/${answers.license}
 
 ## Contributing
 ${answers.contribution}
@@ -74,8 +75,7 @@ inquirer.prompt([
     {
         type: "list",
         message: "Please choose a license from this list to add to your README file.",
-        choices: ["Academic Free License v3.0", "Artistic license 2.0", "Educational Community License v2.0", "MIT",
-                "Mozilla Public License 2.0", "Open Software License 3.0"],
+        choices: ["Apache-2.0", "GPL-3.0", "MIT", "MPL-2.0", "EPL-2.0"],
         name: "license"
         // a badge is added to the top of the page, and a notice is added in license section
     },
