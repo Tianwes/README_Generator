@@ -1,5 +1,5 @@
 
-# Tindog    [![License: Mozilla Public License 2.0](https://img.shields.io/badge/License-Mozilla Public License 2.0-green.svg)](https://opensource.org/licenses/Mozilla Public License 2.0)
+# Tindog    [![License: Educational Community License v2.0](https://img.shields.io/badge/License-Educational Community License v2.0-green.svg)](https://opensource.org/licenses/Educational Community License v2.0)
 
 Dating service for dogs
 
@@ -13,23 +13,23 @@ Dating service for dogs
 [Questions](#questions)
 
 ## Installation
-check app store
+App store
 
 ## Usage
-blahblahblahblah
+blahblahblah
 
 ## License
-Mozilla Public License 2.0
+Educational Community License v2.0
 // license info
 
 ## Contributing
-email here
+fork
 
 ## Tests
-blablblalalblkjghljf
+blablabla
 
 ## Questions
 Personal GitHub Page: [github.com/Tianwes](github.com/Tianwes)
 
-Mozilla Public License 2.0 © [Tianwes](github.com/Tianwes)
+Educational Community License v2.0 © [Tianwes](github.com/Tianwes)
 
