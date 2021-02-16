@@ -1,5 +1,5 @@
 
-# qwerty   
+# Qwerty   
 [![License: MPL-2.0](https://img.shields.io/badge/License-MPL-2.0-green)](https://opensource.org/licenses/MPL-2.0)
 
 qwerty
@@ -25,10 +25,10 @@ To find out more about the MPL-2.0, click [here](https://opensource.org/licenses
 
 
 ## Contributing
-qwerty
+wert
 
 ## Tests
-qwerty
+wert
 
 ## Questions
 Personal GitHub Page: [github.com/qwerty](github.com/qwerty)
