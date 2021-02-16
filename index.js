@@ -3,27 +3,37 @@ const fs = require("fs");
 
 const generateREADME = (answers) =>
 `
-# ${answers.ProjectTitle}
+# ${answers.projectTitle}
 - words here
-[license Badge]
+[![${answers.license}](https://img.shields.io/github/license/license/name?style=plastic)]
 <!-- followed by link down to license section -->
+
 ## Description
+${answers.description}
 
 ## Table of Contents
 <!-- will need to put each section name and make a link HOW TO DO IN-PAGE LINKS? -->
 
 ## Installation
+${answers.installation}
 
 ## Usage
+${answers.usage}
 
 ## License
+${answers.license}
+// license info
 
 ## Contributing
+${answers.contribution}
 
 ## Tests
+${answers.tests}
 
 ## Questions
 Personal GitHub Page: github.com/${answers.username}
+
+${answers.license}&copy [${answers.username}](github.com/${answers.username})
 
 `;
 
@@ -31,7 +41,7 @@ inquirer.prompt([
     {
         type: "input",
         message: "What is the title of your project?",
-        name: "ProjectTitle" 
+        name: "projectTitle" 
     },
     {
         type: "input",
@@ -50,7 +60,7 @@ inquirer.prompt([
     },
     {
         type: "input",
-        message: "Give some guidelines on how a user cn contribute.",
+        message: "Give some guidelines on how a user can contribute to your application.",
         name: "contribution",
     },
     {
