@@ -29,5 +29,5 @@ answer prompt and see what happens?
 ## Questions
 Personal GitHub Page: [github.com/Tianwes](github.com/Tianwes)
 
-MIT&copy [Tianwes](github.com/Tianwes)
+MIT &copy [Tianwes](github.com/Tianwes)
 
