@@ -3,16 +3,18 @@ const fs = require("fs");
 
 const generateREADME = (answers) =>
 `
-# ${answers.projectTitle}
-- words here
-[![${answers.license}](https://img.shields.io/github/license/license/name?style=plastic)]
-<!-- followed by link down to license section -->
+# ${answers.projectTitle}    [![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-green.svg)](https://opensource.org/licenses/${answers.license})
 
-## Description
 ${answers.description}
 
+<!-- followed by link down to license section -->
 ## Table of Contents
-<!-- will need to put each section name and make a link HOW TO DO IN-PAGE LINKS? -->
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
 
 ## Installation
 ${answers.installation}
@@ -31,9 +33,9 @@ ${answers.contribution}
 ${answers.tests}
 
 ## Questions
-Personal GitHub Page: github.com/${answers.username}
+Personal GitHub Page: [github.com/${answers.username}](github.com/${answers.username})
 
-${answers.license}&copy [${answers.username}](github.com/${answers.username})
+${answers.license} © [${answers.username}](github.com/${answers.username})
 
 `;
 
