@@ -1,8 +1,8 @@
 
-# Tindog   
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache-2.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
+# 1   
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL-3.0-green.svg)](https://opensource.org/licenses/GPL-3.0)
 
-Dating app for dogs
+2
 
 
 ## Table of Contents
@@ -14,23 +14,24 @@ Dating app for dogs
 [Questions](#questions)  
 
 ## Installation
-app store
+3
 
 ## Usage
-find dogs in your area
+4
 
 ## License
-Apache-2.0
-https://opensource.org/licenses/Apache-2.0
+GPL-3.0  
+To find out more about the GPL-3.0, click [![here](https://opensource.org/licenses/GPL-3.0)]
+
 
 ## Contributing
-fork 'em
+5
 
 ## Tests
-catfish
+6
 
 ## Questions
-Personal GitHub Page: [github.com/Tianwes](github.com/Tianwes)
+Personal GitHub Page: [github.com/7](github.com/7)
 
-Apache-2.0 © [Tianwes](github.com/Tianwes)
+GPL-3.0 © [7](github.com/7)
 
