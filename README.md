@@ -1,8 +1,8 @@
 
-# 1   
-[![License: EPL-2.0](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://opensource.org/licenses/EPL-2.0)
+# qwerty   
+[![License: MPL-2.0](https://img.shields.io/badge/License-MPL-2.0-green)](https://opensource.org/licenses/MPL-2.0)
 
-2
+qwerty
 
 
 ## Table of Contents
@@ -14,24 +14,24 @@
 [Questions](#questions)  
 
 ## Installation
-3
+qwerty
 
 ## Usage
-4
+qwerty
 
 ## License
-EPL-2.0  
-To find out more about the EPL-2.0, click [here](https://opensource.org/licenses/EPL-2.0)
+MPL-2.0  
+To find out more about the MPL-2.0, click [here](https://opensource.org/licenses/MPL-2.0)
 
 
 ## Contributing
-5
+qwerty
 
 ## Tests
-6
+qwerty
 
 ## Questions
-Personal GitHub Page: [github.com/7](github.com/7)
+Personal GitHub Page: [github.com/qwerty](github.com/qwerty)
 
-EPL-2.0 © [7](github.com/7)
+MPL-2.0 © [qwerty](github.com/qwerty)
 
