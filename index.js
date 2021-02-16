@@ -4,7 +4,7 @@ const fs = require("fs");
 const generateREADME = (answers) =>
 `
 # ${answers.projectTitle}   
-[![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-green.svg)](https://opensource.org/licenses/${answers.license})
+[![License: ${answers.license}](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://opensource.org/licenses/${answers.license})
 
 ${answers.description}
 
@@ -25,7 +25,7 @@ ${answers.usage}
 
 ## License
 ${answers.license}  
-To find out more about the ${answers.license}, click [![here](https://opensource.org/licenses/${answers.license})]
+To find out more about the ${answers.license}, click [here](https://opensource.org/licenses/${answers.license})
 
 
 ## Contributing

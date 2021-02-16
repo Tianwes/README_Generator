@@ -1,6 +1,6 @@
 
 # 1   
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPL-3.0-green.svg)](https://opensource.org/licenses/GPL-3.0)
+[![License: EPL-2.0](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://opensource.org/licenses/EPL-2.0)
 
 2
 
@@ -20,8 +20,8 @@
 4
 
 ## License
-GPL-3.0  
-To find out more about the GPL-3.0, click [![here](https://opensource.org/licenses/GPL-3.0)]
+EPL-2.0  
+To find out more about the EPL-2.0, click [here](https://opensource.org/licenses/EPL-2.0)
 
 
 ## Contributing
@@ -33,5 +33,5 @@ To find out more about the GPL-3.0, click [![here](https://opensource.org/licens
 ## Questions
 Personal GitHub Page: [github.com/7](github.com/7)
 
-GPL-3.0 © [7](github.com/7)
+EPL-2.0 © [7](github.com/7)
 
