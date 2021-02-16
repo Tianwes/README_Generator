@@ -9,7 +9,7 @@ Through the command terminal, it generates a readme
 
 ## Table of Contents
 <!-- will need to put each section name and make a link HOW TO DO IN-PAGE LINKS? -->
-[Tests](-tests)
+[Tests](#tests)
 
 ## Installation
 1) click install btn 2)follow prompts
