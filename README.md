@@ -1,7 +1,7 @@
 
 # ReadMe Generator
 - words here
-[![MIT](https://img.shields.io/github/license/license/name?style=plastic)]
+[!MIT(https://img.shields.io/github/license/license/name?style=plastic)]
 <!-- followed by link down to license section -->
 
 ## Description
