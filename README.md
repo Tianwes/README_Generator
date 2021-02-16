@@ -1,7 +1,7 @@
 
 # ReadMe Generator
 - words here
-[![MIT(https://img.shields.io/github/license/license/name?style=plastic)]]
+[![MIT](https://img.shields.io/github/license/license/name?style=plastic)]
 <!-- followed by link down to license section -->
 
 ## Description
@@ -27,7 +27,7 @@ feel free to fork
 answer prompt and see what happens?
 
 ## Questions
-Personal GitHub Page: (github.com/Tianwes)
+Personal GitHub Page: [github.com/Tianwes](github.com/Tianwes)
 
 MIT&copy [Tianwes](github.com/Tianwes)
 
