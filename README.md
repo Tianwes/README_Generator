@@ -28,11 +28,11 @@ If you find any bugs create an issue in the issues tab. Thanks! I hate bugs.
 ## Questions
 If you have any questions, feel free to reach out!  
 My email: [tianweavers@gmail.com](mailto:tianweavers@gmail.com)  
-Personal GitHub Page: [https://github.com/Tianwes](https://github.com/Tianwes)
+Personal GitHub Page: [github.com/Tianwes](https://github.com/Tianwes)
 
 ## License
 This application is covered under the MIT license.
 To find out more about the MIT license, click [here](https://opensource.org/licenses/MIT)
 
-MIT © 2021 [Tianwes](github.com/Tianwes)
+MIT © 2021 [Tianwes](https://github.com/Tianwes)
 

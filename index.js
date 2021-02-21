@@ -32,13 +32,13 @@ ${answers.tests}
 ## Questions
 If you have any questions, feel free to reach out!  
 My email: [${answers.email}](mailto:${answers.email})  
-Personal GitHub Page: [https://github.com/${answers.username}](https://github.com/${answers.username})
+Personal GitHub Page: [github.com/${answers.username}](https://github.com/${answers.username})
 
 ## License
 This application is covered under the ${answers.license} license.
 To find out more about the ${answers.license} license, click [here](https://opensource.org/licenses/${answers.license})
 
-${answers.license} © 2021 [${answers.username}](github.com/${answers.username})
+${answers.license} © 2021 [${answers.username}](https://github.com/${answers.username})
 
 `;
 
@@ -85,7 +85,6 @@ inquirer.prompt([
         type: "input",
         message: "What is your GitHub username?",
         name: "username"
-        // added to questions section with link to github (ex: www.gitub/username)
     },
     {
         type: "input",
@@ -93,10 +92,7 @@ inquirer.prompt([
         name: "email"
     },
 ]).then((answers) => {
-    // const ChoseLicense = "your string";
-    // const withoutLastFourChars = app.slice(0, -4);
-    // answers.license.split('-')[0]
-
+  
    const readmeContent = generateREADME(answers);
 
     fs.writeFile("README.md", readmeContent, (err) => {
