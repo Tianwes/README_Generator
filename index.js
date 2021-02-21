@@ -32,7 +32,7 @@ ${answers.tests}
 ## Questions
 If you have any questions, feel free to reach out!  
 My email: [${answers.email}](mailto:${answers.email})  
-Personal GitHub Page: [github.com/${answers.username}](github.com/${answers.username})
+Personal GitHub Page: [https://github.com/${answers.username}](https://github.com/${answers.username})
 
 ## License
 This application is covered under the ${answers.license} license.
