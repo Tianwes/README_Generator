@@ -6,27 +6,22 @@ const generateREADME = (answers) =>
 # ${answers.projectTitle}   
 [![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license.split('-')[0]}-green)](https://opensource.org/licenses/${answers.license})
 
+## Description
 ${answers.description}
-
 
 ## Table of Contents
 [Installation](#installation)  
 [Usage](#usage)  
-[License](#license)  
 [Contributing](#contributing)  
 [Tests](#tests)  
 [Questions](#questions)  
+[License](#license) 
 
 ## Installation
 ${answers.installation}
 
 ## Usage
 ${answers.usage}
-
-## License
-${answers.license}  
-To find out more about the ${answers.license}, click [here](https://opensource.org/licenses/${answers.license})
-
 
 ## Contributing
 ${answers.contribution}
@@ -35,9 +30,15 @@ ${answers.contribution}
 ${answers.tests}
 
 ## Questions
+If you have any questions, feel free to reach out!  
+My email: [${answers.email}](mailto:${answers.email})  
 Personal GitHub Page: [github.com/${answers.username}](github.com/${answers.username})
 
-${answers.license} © [${answers.username}](github.com/${answers.username})
+## License
+This application is covered under the ${answers.license} license.
+To find out more about the ${answers.license} license, click [here](https://opensource.org/licenses/${answers.license})
+
+${answers.license} © 2021 [${answers.username}](github.com/${answers.username})
 
 `;
 

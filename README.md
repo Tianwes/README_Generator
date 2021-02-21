@@ -1,37 +1,38 @@
 
-# Groundhog Day   
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPL-green)](https://opensource.org/licenses/GPL-3.0)
+# README Generator   
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
-It's just repeats
-
+## Description
+This is a command-line application that takes user's input and generates a README file for their application.
 
 ## Table of Contents
 [Installation](#installation)  
 [Usage](#usage)  
-[License](#license)  
 [Contributing](#contributing)  
 [Tests](#tests)  
 [Questions](#questions)  
+[License](#license) 
 
 ## Installation
-every day
+This application utilizes the NPM Inquirer package.  Make sure to install your JSON packages and then run - npm i inquirer
 
 ## Usage
-every day
-
-## License
-GPL-3.0  
-To find out more about the GPL-3.0, click [here](https://opensource.org/licenses/GPL-3.0)
-
+Running this application with node, the user is then prompted to answer questions about the application they've created.  When finished, a README is generated containing their input.
 
 ## Contributing
-you have to every day
+I welcome constructive advice and new ideas. If you have something you would like to contribute, please feel free to contact me! If appropriate, I'll create a task for you and we'll go from there.
 
 ## Tests
-why
+If you find any bugs create an issue in the issues tab. Thanks! I hate bugs.
 
 ## Questions
-Personal GitHub Page: [github.com/Bill](github.com/Bill)
+If you have any questions, feel free to reach out!  
+My email: [tianweavers@gmail.com](mailto:tianweavers@gmail.com)  
+Personal GitHub Page: [github.com/Tianwes](github.com/Tianwes)
 
-GPL-3.0 © [Bill](github.com/Bill)
+## License
+This application is covered under the MIT license.
+To find out more about the MIT license, click [here](https://opensource.org/licenses/MIT)
+
+MIT © 2021 [Tianwes](github.com/Tianwes)
 
