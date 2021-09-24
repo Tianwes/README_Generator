@@ -17,7 +17,10 @@ This is a command-line application that takes user's input and generates a READM
 This application utilizes the NPM Inquirer package.  Make sure to install your JSON packages and then run - npm i inquirer
 
 ## Usage
-Running this application with node, the user is then prompted to answer questions about the application they've created.  When finished, a README is generated containing their input.
+Running this application with node, type in the command line:  
+`node index`   
+then press 'enter' button,  
+the user is then prompted to answer questions about the application they've created.  When finished, a README is generated containing their input.
 
 ## Contributing
 I welcome constructive advice and new ideas. If you have something you would like to contribute, please feel free to contact me! If appropriate, I'll create a task for you and we'll go from there.
